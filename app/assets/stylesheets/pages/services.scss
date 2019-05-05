@@ -1,0 +1,24 @@
+.page-block {
+  height: 100vh;
+  display: flex;
+
+  .block-section {
+    width: 50%;
+    height: 100vh;
+  }
+
+  .img-section {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .text-section {
+    padding: 30px 50px;
+  }
+
+  .left-section h1,
+  .left-section p {
+    color: white;
+  }
+}

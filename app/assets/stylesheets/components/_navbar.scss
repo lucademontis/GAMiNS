@@ -1,12 +1,16 @@
-.navbar-lewagon {
+.navbar-gamins {
   justify-content: space-between;
-  background: white;
+  background: black;
 }
 
-.navbar-lewagon .navbar-collapse {
+.navbar-gamins .navbar-collapse {
   flex-grow: 0;
 }
 
-.navbar-lewagon .navbar-brand img {
-  width: 40px;
+// .navbar-gamins .navbar-brand img {
+//   width: 40px;
+// }
+
+li.nav-item{
+  color: white;
 }
